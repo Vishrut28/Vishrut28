@@ -1,57 +1,66 @@
-# 👋 Hey there! I'm Vishrut 🚀  
+# Hi, I'm Vishrut 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Vishrut28?style=social)](https://github.com/Vishrut28)
-[![Profile Views](https://komarev.com/ghpvc/?username=Vishrut28&label=Profile%20Views&color=blue&style=flat)](https://github.com/Vishrut28)
+Final-year CS student at SRMIST building production apps, winning hackathons, and learning something new every week.
 
-## 🛠️ About Me  
-🎓 **CS Enthusiast** | 🤖 **AI/ML Developer** | 💡 **Tech Innovator**  
+I work across the stack — backend APIs, mobile apps, cloud infra, and ML pipelines. I care about writing code that actually ships and systems that hold up under real use. Currently open to **SWE, SDE, and AI/ML roles** — remote, hybrid, or onsite.
 
-I am a passionate developer with expertise in **AI/ML, Web Development, DevOps, and IoT**. I love solving real-world problems through technology, collaborating on open-source projects, and competing in hackathons.  
+📍 Hyderabad, India &nbsp;·&nbsp; 📬 [vishrut010@gmail.com] &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/vishrut-45454b250/) &nbsp;·&nbsp;
+---
 
-### 🚀 What I Do:
-- 🏆 **Hackathon Champion** - *1st Place at Standard Chartered Hackathon 2025*  
-- 📊 **ML & AI Projects** - *Weed Detection, Opinion Mining, Credit Card Fraud Detection*  
-- 🛠 **DevOps & Cloud** - *Docker, Terraform, Jenkins, AWS*  
+## 🏗 What I've built
 
-## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vishrut-45454b250) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+**[CapitalCue](https://github.com/Vishrut28/CapitalCue)** &nbsp;🥇 *1st Place · Standard Chartered Hackathon 2025*  
+AI-powered loan management platform built under hackathon conditions. Handles loan origination, risk scoring, and repayment tracking. Won first place out of 75 teams.  
+`Python` `FastAPI` `React` `Tesseract`
+
+
+**[Marcus Aurelius Stoic Chatbot](https://github.com/Vishrut28/marcus-aurelius-chatbot)**  
+Conversational AI built as a technical assignment. Uses the Anthropic SDK with a multi-provider API key toggle, deployed on Vercel. Philosophy as a product.  
+`Next.js 14` `TypeScript` `Anthropic SDK` `Vercel`
 
 ---
 
-## 📌 Tech Stack  
-
-**💻 Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-**⚡ AI/ML:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)  
-
-**🛠️ DevOps & Cloud:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+**DevOps Pipeline · AWS EC2 + Terraform + GitHub Actions**  
+End-to-end containerised deployment for a Node.js service. Provisioned EC2 infrastructure with Terraform, containerised the app with Docker, and wired up a full CI/CD pipeline in GitHub Actions.  
+`Docker` `Terraform` `AWS EC2` `GitHub Actions` `Node.js`
 
 ---
 
-## 🏆 Featured Projects  
-🚀 **[CapitalCue](https://github.com/Vishrut28/CapitalCue)** - *AI-Powered Loan Manager (Standard Chartered Hackathon 2025 Winner)*  
-🤖 **[Weed Detection](https://github.com/Vishrut28/Weed-Detection)** - *AIoT system for automated weed removal*  
-📊 **[Credit Card Fraud Detection](https://github.com/Vishrut28/CreditCard-FraudDetection)** - *ML model to detect fraudulent transactions*  
+**Sensor Anomaly Detection · Kaggle**  
+Ensemble ML pipeline for industrial sensor data. Combined LightGBM, XGBoost, Random Forest, and Logistic Regression — handled extreme outliers, feature shape mismatches, and noisy real-world sensor readings.  
+`Python` `LightGBM` `XGBoost` `scikit-learn` `pandas`
 
 ---
 
-## 📊 GitHub Stats  
-
-![Vishrut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishrut28&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishrut28&layout=compact&theme=radical)  
+**[Weed Detection](https://github.com/Vishrut28/Weed-Detection) · AIoT**  
+Computer vision system for automated weed detection and removal. Combines YOLOv8 for real-time detection with IoT hardware integration.  
+`YOLOv8` `Python` `OpenCV` `IoT`
 
 ---
 
-🌱 **“Always learning, always building!”**  
-🚀 *Let's collaborate and build something awesome!*  
+## 🛠 Tech I work with
+
+**Languages**  
+`TypeScript` `JavaScript` `Python` `C++`
+
+**Backend & Web**  
+`Next.js` `FastAPI` `PostgreSQL`
+
+**DevOps & Cloud**  
+`Docker` `Terraform` `AWS EC2` `GitHub Actions`
+
+**ML / AI**  
+`LightGBM` `XGBoost` `YOLOv8` `scikit-learn` `TensorFlow` `Anthropic SDK`
+
+---
+
+## 📊 GitHub Stats
+
+[![Vishrut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishrut28&show_icons=true&theme=default&hide_border=true)](https://github.com/Vishrut28)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishrut28&layout=compact&theme=default&hide_border=true)](https://github.com/Vishrut28)
+
+---
+
+## 📬 Let's talk
+
+I'm actively looking for roles. If you're building something interesting, reach out — I'm reachable on [LinkedIn](https://www.linkedin.com/in/vishrut-45454b250/) or at [vishrut010@gmail.com].
