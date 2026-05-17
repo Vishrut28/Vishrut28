@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&width=500&lines=Hi%2C+I'm+Vishrut+%F0%9F%91%8B;CS+%40+SRMIST+%E2%80%99+26;Full-Stack+%26+AI%2FML+Developer;Open+to+SWE+%2F+SDE+%2F+ML+roles)](https://git.io/typing-svg)
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-SWE%20%7C%20SDE%20%7C%20ML-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)
+
 # Hi, I'm Vishrut 👋
 
 Final-year CS student at SRMIST building production apps, winning hackathons, and learning something new every week.
@@ -6,6 +10,8 @@ I work across the stack — backend APIs, mobile apps, cloud infra, and ML pipel
 
 📍 Hyderabad, India &nbsp;·&nbsp; 📬 [vishrut010@gmail.com] &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/vishrut-45454b250/) &nbsp;·&nbsp;
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vishrut28&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 ## 🏗 What I've built
 
