@@ -60,13 +60,6 @@ Computer vision system for automated weed detection and removal. Combines YOLOv8
 
 ---
 
-## 📊 GitHub Stats
-
-[![Vishrut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishrut28&show_icons=true&theme=default&hide_border=true)](https://github.com/Vishrut28)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishrut28&layout=compact&theme=default&hide_border=true)](https://github.com/Vishrut28)
-
----
-
 ## 📬 Let's talk
 
 I'm actively looking for roles. If you're building something interesting, reach out — I'm reachable on [LinkedIn](https://www.linkedin.com/in/vishrut-45454b250/) or at [vishrut010@gmail.com].
